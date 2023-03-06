@@ -1,6 +1,7 @@
 languageCode: "en-US"
 title: "Open Science with ASE"
 theme: "simplecss"
+baseURL: https://ase-workshop-2023.github.io
 
 params:
   description: "Website for the 2023 ASE workshop"
