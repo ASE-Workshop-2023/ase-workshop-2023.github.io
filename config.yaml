@@ -12,5 +12,5 @@ menu:
       url: ""
       weight: 1
     - name: Registration
-      url: "registration.html"
+      url: "registration/index.html"
       weight: 2
