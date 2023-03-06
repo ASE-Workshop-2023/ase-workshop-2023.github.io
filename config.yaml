@@ -1,0 +1,15 @@
+languageCode: "en-US"
+title: "Open Science with ASE"
+theme: "simplecss"
+
+params:
+  description: "Website for the 2023 ASE workshop"
+
+menu:
+  main:
+    - name: Home
+      url: ""
+      weight: 1
+    - name: Registration
+      url: "registration.html"
+      weight: 2
