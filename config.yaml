@@ -12,5 +12,10 @@ menu:
       url: ""
       weight: 1
     - name: Venue & Arrival
+      url: "registration/index.html"
+    - name: Timetable
       url: "timetable/index.html"
+      weight: 2
+    - name: Accommodation
+      url: "accommodation/index.html"
       weight: 2
