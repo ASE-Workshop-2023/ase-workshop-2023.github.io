@@ -10,7 +10,8 @@ pre-installed software including Jupyter Lab.
 
 The tutorials T1-T4 cover core ASE features and have been produced by
 the organisers for this workshop. They will be delivered in "Software
-Carpentry" style by Lucy Whalley, Pietro Delugas and Adam Jackson.
+Carpentry" style by Lucy Whalley, Pietro Delugas and Adam Jackson. 
+The website for the core tutorials is [here](https://ase-workshop-2023.github.io/tutorial/).
 
 Tutorial T5 will be delivered by Ask Larsen and covers calculation
 workflows.
