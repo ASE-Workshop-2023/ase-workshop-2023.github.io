@@ -19,3 +19,7 @@ menu:
     - name: Accommodation
       url: "accommodation/index.html"
       weight: 2
+    - name: Tutorials
+      url: "tutorials/index.html"
+      weight: 2
+
