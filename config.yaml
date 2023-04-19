@@ -9,7 +9,7 @@ params:
 menu:
   main:
     - name: Home
-      url: ""
+      url: "home/index.html"
       weight: 1
     - name: Venue & Arrival
       url: "registration/index.html"
