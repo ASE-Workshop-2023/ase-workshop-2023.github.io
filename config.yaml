@@ -4,13 +4,13 @@ theme: "simplecss"
 baseURL: https://ase-workshop-2023.github.io
 
 params:
-  description: "Website for the 2023 ASE workshop"
+  description: "Open Science with the Atomic Simulation: April 24-28 2023"
 
 menu:
   main:
     - name: Home
       url: ""
       weight: 1
-    - name: Registration
-      url: "registration/index.html"
+    - name: Timetable
+      url: "timetable/index.html"
       weight: 2
