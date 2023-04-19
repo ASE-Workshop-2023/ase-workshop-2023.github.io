@@ -11,6 +11,6 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: Timetable
+    - name: Venue & Arrival
       url: "timetable/index.html"
       weight: 2

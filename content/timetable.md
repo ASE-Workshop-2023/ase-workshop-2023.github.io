@@ -18,21 +18,21 @@ Times in British Summer Time  (UTC+1)
 | 16:40 -- 17:00      | C4 Ana Carolina Coutinho Dutra (Newcastle University)                                                                                        |
 | 17:00 -- 19:00      | Poster session & aparetif                                                                                                                    |
 
-| **Tuesday 25 April** |                                                                                                                                      |
-|----------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| 09:30 -- 10:30       | I3 Laura Ratcliff (University of Bristol)                                                                                            |
-| 10:30 -- 11:00       | *Coffee*                                                                                                                             |
-| 11:00 -- 12:00       | I4 Karsten Wedel Jacobsen (DTU) <br/> "Getting around barriers in atomic structure optimization"                                     |
-| 12:00 -- 12:20       | C5 Bo Peng (University of Cambridge)                                                                                                 |
-| 12:20 -- 12:40       | C6 Rhiannon Morris (University of Leeds)                                                                                             |
-| 12:40 -- 14:00       | *Lunch*                                                                                                                              |
-| 14:00 -- 15:00       | I5 Paul Erhart (Chalmers University of Technology) <br/> "Tools for modelling the dynamics of materials -- dynasors and salamanders" |
-| 15:00 -- 15:20       | C7 Xue Yong (University of Sheffield)                                                                                                |
-| 15:20 -- 15:50       | *Coffee*                                                                                                                             |
-| 15:50 -- 16:50       | I6 *(remote)* Yo Yehudi (Open Life Science)                                                                                          |
-| 16:50 -- 17:10       | R1 *(remote)* Anubhab Haldar (Boston University) <br/> "Adaptive force convergence in GPAW: Implementation, results and outlook"     |
-| 17:10 -- 17:30       | R2 *(remote)* Michael Waters (Northwestern University) <br/> "Building Workflows with ASE for Research and Visualization"            |
-| 18:00 -- 20:00       | *Dinner*                                                                                                                             |
+| **Tuesday 25 April** |                                                                                                                                                                            |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 09:30 -- 10:30       | I3 Laura Ratcliff (University of Bristol) <br/> "New Opportunities for First Principles Simulations of Thousands of Atoms Using Linear Scaling Density Functional Theory" |
+| 10:30 -- 11:00       | *Coffee*                                                                                                                                                                   |
+| 11:00 -- 12:00       | I4 Karsten Wedel Jacobsen (DTU) <br/> "Getting around barriers in atomic structure optimization"                                                                           |
+| 12:00 -- 12:20       | C5 Bo Peng (University of Cambridge)                                                                                                                                       |
+| 12:20 -- 12:40       | C6 Rhiannon Morris (University of Leeds)                                                                                                                                   |
+| 12:40 -- 14:00       | *Lunch*                                                                                                                                                                    |
+| 14:00 -- 15:00       | I5 Paul Erhart (Chalmers University of Technology) <br/> "Tools for modelling the dynamics of materials -- dynasors and salamanders"                                       |
+| 15:00 -- 15:20       | C7 Xue Yong (University of Sheffield)                                                                                                                                      |
+| 15:20 -- 15:50       | *Coffee*                                                                                                                                                                   |
+| 15:50 -- 16:50       | I6 *(remote)* Yo Yehudi (Open Life Science)                                                                                                                                |
+| 16:50 -- 17:10       | R1 *(remote)* Anubhab Haldar (Boston University) <br/> "Adaptive force convergence in GPAW: Implementation, results and outlook"                                           |
+| 17:10 -- 17:30       | R2 *(remote)* Michael Waters (Northwestern University) <br/> "Building Workflows with ASE for Research and Visualization"                                                  |
+| 18:00 -- 20:00       | *Dinner*                                                                                                                                                                   |
 
 
 | **Wednesday 26 April** | Science programme                                                                                                                                                             |
