@@ -23,3 +23,10 @@ menu:
       url: "tutorials/index.html"
       weight: 2
 
+# By default we aren't allowed to put newlines inside table blocks.
+# That is really quite annoying and apparently the only option is
+# to disable a much broader safety check. Seems bad.
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
