@@ -23,9 +23,9 @@ Tasks will be small and possible to accomplish in a limited
 amount of time.
 
 Make sure you have a Gitlab account, clone ASE, and install as
-editable using e.g. "pip install --editable <ase directory>".
+editable using e.g. `pip install --editable <ase directory>`.
 You will need to install pytest and pytest-mock
-("pip install pytest pytest-mock") to run the tests.
+(`pip install pytest pytest-mock`) to run the tests.
 
 Participants are encouraged to work in pairs (pair programming).
 Changes are supposed to be integrated via merge requests which are
