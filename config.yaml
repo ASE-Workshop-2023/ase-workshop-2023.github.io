@@ -22,6 +22,9 @@ menu:
     - name: Tutorials
       url: "tutorials/index.html"
       weight: 2
+    - name: Hackathon
+      url: "hackathon/index.html"
+      weight: 2
 
 # By default we aren't allowed to put newlines inside table blocks.
 # That is really quite annoying and apparently the only option is
