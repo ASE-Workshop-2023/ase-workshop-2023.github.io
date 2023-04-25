@@ -53,9 +53,9 @@ Times in British Summer Time  (UTC+1)
 |-----------------------|------------------------------------|-----------|
 | 09:30 -- 11:00        | TC2: Steen Lysgard "ACAT"          | Hacking   |
 | 11:00 -- 11:30        | *Coffee*                           | *Coffee*  |
-| 11:30 -- 12:30        | T3: Dynamics                       | Hacking   |
+| 11:30 -- 12:30        | T3: Properties                     | Hacking   |
 | 12:30 -- 14:00        | *Lunch*                            | *Lunch*   |
-| 14:00 -- 15:00        | T4: Properties                     | Hacking   |
+| 14:00 -- 15:00        | T4: Dynamics                       | Hacking   |
 | 15:00 -- 15:30        | *Coffee*                           | *Coffee*  |
 | 15:30 -- 17:15        | TC3: Malvika Sharan "Open Science" | Hacking   |
 
