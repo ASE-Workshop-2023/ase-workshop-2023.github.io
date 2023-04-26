@@ -24,8 +24,7 @@ Times in British Summer Time  (UTC+1)
 | 10:30 -- 11:00       | *Coffee*                                                                                                                                                                   |
 | 11:00 -- 12:00       | I4 Karsten Wedel Jacobsen (DTU) <br/> "Getting around barriers in atomic structure optimization"                                                                           |
 | 12:00 -- 12:20       | C5 Bo Peng (University of Cambridge)                                                                                                                                       |
-| 12:20 -- 12:40       | C6 Rhiannon Morris (University of Leeds)                                                                                                                                   |
-| 12:40 -- 14:00       | *Lunch*                                                                                                                                                                    |
+| 12:20 -- 14:00       | *Lunch*                                                                                                                                                                    |
 | 14:00 -- 15:00       | I5 Paul Erhart (Chalmers University of Technology) <br/> "Tools for modelling the dynamics of materials -- dynasors and salamanders"                                       |
 | 15:00 -- 15:20       | C7 Xue Yong (University of Sheffield)                                                                                                                                      |
 | 15:20 -- 15:50       | *Coffee*                                                                                                                                                                   |
