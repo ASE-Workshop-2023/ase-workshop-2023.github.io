@@ -43,11 +43,11 @@ Times in British Summer Time  (UTC+1)
 
 | **Wednesday 26 April** | Tutorials                                            | Hackathon                                          |
 |------------------------|------------------------------------------------------|----------------------------------------------------|
-| 11:30 -- 12:30         | T1: Basics (Atoms and Calculators) I  | Ask Larsen: hackathon kick-off and group formation |
+| 11:30 -- 12:30         | T1: [Basics (Atoms and Calculators) I](https://ase-workshop-2023.github.io/tutorial/)  | Ask Larsen: hackathon kick-off and group formation |
 | 12:30 -- 13:30         | *Lunch*                                              | *Lunch*                                            |
 | 13:30 -- 15:00         | TC1: Toma Susi "AbTEM"                               | Hacking                                            |
 | 15:00 -- 15:30         | *Coffee*                                             | *Coffee*                                           |
-| 15:30 -- 17:00         | T2: Basics (Atoms and Calculators) II | Hacking                                            |
+| 15:30 -- 17:00         | T2: [Basics (Atoms and Calculators) II](https://ase-workshop-2023.github.io/tutorial/) | Hacking                                            |
 
 | **Thursday 27 April** | Tutorials                          | Hackathon |
 |-----------------------|------------------------------------|-----------|
