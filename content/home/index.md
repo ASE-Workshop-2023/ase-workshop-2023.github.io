@@ -1,5 +1,10 @@
 This page contains some information for attendees of the CECAM workshop "Open Science with the Atomic Simulation Environment" held at Daresbury Laboratory, UK from April 24-28 2023.
 
+<figure>
+  <img src="images/workshop-photo.jpg" alt="Workshop attendees at Daresbury Laboratory">
+  <figcaption>Workshop attendees at Daresbury Laboratory</figcaption>
+</figure>
+
 This is a CECAM Flagship Workshop: [CECAM event page](https://www.cecam.org/workshop-details/1245)
 
 The event will consist of a science workshop with all attendees, followed by parallel sessions for tutorials and hackathon. Please check the relevant pages for information, depending which session(s) you plan to attend.
