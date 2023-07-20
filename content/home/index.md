@@ -10,3 +10,12 @@ This is a CECAM Flagship Workshop: [CECAM event page](https://www.cecam.org/work
 The event will consist of a science workshop with all attendees, followed by parallel sessions for tutorials and hackathon. Please check the relevant pages for information, depending which session(s) you plan to attend.
 
 We are grateful for financial support from [CECAM](https://www.cecam.org), [Psi-k](https://psi-k.net), [CCP5](https://www.ccp5.ac.uk), [CCP9](https://ccp9.ac.uk), the [Ada Lovelace Centre](https://www.scd.stfc.ac.uk/Pages/Ada-Lovelace-Centre.aspx) and [PSDI](https://www.psdi.ac.uk).
+
+<figure>
+<img src="cecam.png" alt="CECAM logo"> <img src="psi-k.png" alt="Psi-k logo"> <img src="ccp5.png" alt="CCP5 logo">
+</figure>
+<figure>
+<img src="ccp9.jpg" alt="CCP9 logo">
+<img src="alc.png" alt="ALC logo">
+<img src="psdi.png" alt="PSDI logo">
+</figure>
